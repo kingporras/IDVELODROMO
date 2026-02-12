@@ -16,7 +16,7 @@ import PagosPage from "@/pages/Pagos";
 import AdminPostMatchPage from "@/pages/AdminPostMatch";
 import AdminVideosPage from "@/pages/AdminVideos";
 import MatchDetail from "@/pages/MatchDetail";
-import NotFound from "./pages/NotFound";
+import NotFound from "@/pages/NotFound";
 
 const queryClient = new QueryClient();
 
