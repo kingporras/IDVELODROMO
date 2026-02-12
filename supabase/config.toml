@@ -1,0 +1,10 @@
+project_id = "dtztusdehfrynrlmtbpw"
+
+[functions.seed-users]
+verify_jwt = false
+
+[functions.send-reminder]
+verify_jwt = false
+
+[functions.send-payment-email]
+verify_jwt = false
