@@ -1,0 +1,11 @@
+{
+  "name": "El Inter de Verdún",
+  "short_name": "Inter Verdún",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#9DC8E8",
+  "theme_color": "#9DC8E8",
+  "icons": [
+    { "src": "https://storage.googleapis.com/gpt-engineer-file-uploads/UF0tOdHEGYfctSMIyR1WMn2uAlB2/uploads/1770913095083-escudo_512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
